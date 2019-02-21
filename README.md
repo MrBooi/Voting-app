@@ -1,6 +1,6 @@
 # voting_app
 
-A new Flutter project.
+This a simple Mobile Application for voting app survey for South African Political Parties that uses Cloud Firestore Database and Flutter.
 
 ## Getting Started
 
